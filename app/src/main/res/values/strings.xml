@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">App Gestion Contacts</string>
+    <string name="s1">ESPACE ETUDIANT</string>
+    <string name="s2">ESPACE ENSGNANT</string>
+    <string name="s3">ESPACE ADMIN</string>
+    <string name="title">App Gest Contact</string>
+
+    <string name="ajEt">Ajouter Etudiant</string>
+    <string name="conEt">Consulter Etudiant</string>
+    <string name="CONStEt">Consulter tous etudiant</string>
+
+    <string name="ajEn">Ajouter enseignant</string>
+    <string name="conEn">Consulter enseignant</string>
+    <string name="CONStEn">Consulter tous enseignants</string>
+
+    <string name="ajAd">Ajouter Admin</string>
+    <string name="conAd">Consulter Admin</string>
+    <string name="CONStAd">Ccnsulter tous les admins</string>
+
+    <string name="btnAjouter">AJOUTER</string>
+    <string name="btnAnnuler">ANNULER</string>
+    <string name="hint1">Nom : </string>
+    <string name="hint2">Prenom : </string>
+    <string name="hint3">Mail : </string>
+    <string name="hint4">Tel : </string>
+    <string name="txtCode">Code : </string>
+    <string name="btnR">OK</string>
+    <string name="btnM">Modifier</string>
+    <string name="btnD">Supprimer</string>
+</resources>
